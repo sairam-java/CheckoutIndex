@@ -1,1 +1,4 @@
 MyFirst commit
+second line added from checkout
+third line added
+4th line added
